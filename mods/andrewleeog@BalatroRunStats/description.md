@@ -16,7 +16,7 @@ Stats persist with the run save. New metrics start recording when installed; mis
 ## Requirements
 
 - [Lovely](https://github.com/ethangreen-dev/lovely-injector)
-- [Steamodded](https://github.com/Steamodded/smods)
+- [Steamodded](https://github.com/Steamodded/smods) is optional. Without it, the mod loads through Lovely and tracks Balatro's built-in chance effects. When installed, Steamodded's probability API is used for vanilla and supported modded effects.
 - Talisman is not required.
 
 ## Installation and usage
