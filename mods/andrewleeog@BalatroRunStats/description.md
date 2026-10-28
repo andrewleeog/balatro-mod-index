@@ -5,7 +5,9 @@ Track the current Balatro run with summaries, charts, card usage, and probabilit
 ## Features
 
 - **Summary:** run records and totals, purchases, Standard/Arcana/Celestial/Spectral/Buffoon pack counts, and average/median hand scores.
-- **Trends:** scoring versus blind targets, hands needed to win, money earned and spent, cash reserves by shop, poker-hand usage, and consumables by ante. Switch to Analysis for score consistency and spending categories.
+- **Trends:** cycle between Overview, Analysis, Economy, and Deck. Overview covers scoring, money, hand usage, and consumables; Analysis covers score consistency and spending categories.
+- **Economy:** income sources by ante (blind rewards, unused hands, interest, sales, and Other) and poker-hand level progression. Inspect the top three used hands or choose an individual hand.
+- **Deck:** per-ante composition snapshots and a detailed breakdown for suits, ranks, enhancements, seals, and editions. History groups less common categories; the detail chart shows all categories.
 - **Prob:** recorded hits and rolls alongside current listed probabilities, including stacked Oops! All Sixes effects.
 - **Cards:** rank/suit charts for played, discarded, drawn, and draw-to-play use rates.
 - Shared ante filtering shows played antes, skips gaps, and supports endless runs beyond ante 8.
