@@ -28,3 +28,5 @@ Install into `Mods/PowerBalatro` and restart Balatro. For manual installation, e
 Released by **andrewleeog** under the [MIT license](https://github.com/andrewleeog/PowerBalatro/blob/main/LICENSE), which permits redistribution and mod-manager distribution.
 
 Previously named Balatro Run Stats. When updating from the former name, replace or rename the old folder so only one copy is installed. The internal mod ID and saved run data remain compatible.
+
+The Scoring tab shows contribution graphs for newly played hands, with ante and round selectors and raw score plus percentage for owned Jokers, base hand/planet levels, and card scoring. Attribution follows scoring order; multipliers receive their incremental gains, and setup/enabling effects may have zero direct share.
