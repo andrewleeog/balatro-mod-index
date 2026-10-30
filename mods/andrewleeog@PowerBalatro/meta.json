@@ -1,0 +1,14 @@
+{
+  "title": "PowerBalatro",
+  "requires-steamodded": false,
+  "requires-talisman": false,
+  "categories": [
+    "Quality of Life"
+  ],
+  "author": "andrewleeog",
+  "repo": "https://github.com/andrewleeog/PowerBalatro",
+  "downloadURL": "https://github.com/andrewleeog/PowerBalatro/releases/latest/download/PowerBalatro.zip",
+  "folderName": "PowerBalatro",
+  "version": "1.5.3",
+  "automatic-version-check": true
+}
